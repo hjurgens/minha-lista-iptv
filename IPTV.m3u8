@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1, PGM SW A
+https://iptv.livemode.link/encoder/a1/playlist.m3u8
+#EXTINF:-1, PGM SW B
+https://iptv.livemode.link/encoder/a2/playlist.m3u8
+#EXTINF:-1, PGM PD 6
+https://iptv.livemode.link/encoder/a3/playlist.m3u8
+#EXTINF:-1, PGM PD 5
+https://iptv.livemode.link/encoder/a4/playlist.m3u8
+#EXTINF:-1, PGM PD 4
+https://iptv.livemode.link/encoder/b1/playlist.m3u8
+#EXTINF:-1, PGM PD 3
+https://iptv.livemode.link/encoder/b2/playlist.m3u8
+#EXTINF:-1, PGM PD 2
+https://iptv.livemode.link/encoder/b3/playlist.m3u8
+#EXTINF:-1, PGM PD 1
+https://iptv.livemode.link/encoder/b4/playlist.m3u8
+#EXTINF:-1, Record
+https://iptv.livemode.link/encoder/e2/playlist.m3u8
+#EXTINF:-1, TNT Sports
+https://iptv.livemode.link/encoder/e3/playlist.m3u8
+#EXTINF:-1, Nosso Futebol 1
+https://iptv.livemode.link/encoder/e4/playlist.m3u8
+#EXTINF:-1, Nosso Futebol 2
+https://iptv.livemode.link/encoder/e5/playlist.m3u8
+#EXTINF:-1, Globo
+https://iptv.livemode.link/encoder/e6/playlist.m3u8
+#EXTINF:-1, Sportv
+https://iptv.livemode.link/encoder/e7/playlist.m3u8
+#EXTINF:-1, Nosso Futebol 3
+https://iptv.livemode.link/encoder/e8/playlist.m3u8
+#EXTINF:-1, MVW1
+https://iptv.livemode.link/encoder/d3/playlist.m3u8
+#EXTINF:-1, MVW2
+https://iptv.livemode.link/encoder/d4/playlist.m3u8
